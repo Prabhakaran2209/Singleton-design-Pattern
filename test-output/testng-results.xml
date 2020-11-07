@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33967" started-at="2020-08-02T21:20:14 IST" finished-at="2020-08-02T21:20:48 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33967" started-at="2020-08-02T21:20:14 IST" finished-at="2020-08-02T21:20:48 IST">
+      <class name="selenium_practice.fb_test">
+        <test-method status="PASS" signature="setup()[pri:0, instance:selenium_practice.fb_test@7c29daf3]" name="setup" is-config="true" duration-ms="14831" started-at="2020-08-02T21:20:14 IST" finished-at="2020-08-02T21:20:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifytitle()[pri:1, instance:selenium_practice.fb_test@7c29daf3]" name="verifytitle" duration-ms="26" started-at="2020-08-02T21:20:29 IST" finished-at="2020-08-02T21:20:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:selenium_practice.fb_test@7c29daf3]" name="teardown" is-config="true" duration-ms="985" started-at="2020-08-02T21:20:29 IST" finished-at="2020-08-02T21:20:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:selenium_practice.fb_test@7c29daf3]" name="setup" is-config="true" duration-ms="12067" started-at="2020-08-02T21:20:30 IST" finished-at="2020-08-02T21:20:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="login()[pri:2, instance:selenium_practice.fb_test@7c29daf3]" name="login" duration-ms="5042" started-at="2020-08-02T21:20:42 IST" finished-at="2020-08-02T21:20:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:selenium_practice.fb_test@7c29daf3]" name="teardown" is-config="true" duration-ms="951" started-at="2020-08-02T21:20:47 IST" finished-at="2020-08-02T21:20:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- selenium_practice.fb_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
